@@ -48,10 +48,10 @@ In industries like aviation, engine failures can cause massive downtime, safety 
 This project showcases my skills in applied machine learning, data pipeline engineering, and UI development for industrial use cases. It demonstrates how predictive maintenance can be implemented and evaluated in real-world settings, with real-time alerting and deployable interfaces.
 
 **GitHub Repository:**  
-🔗 *[your GitHub link here]*
+🔗 *[https://github.com/anoushkakadam/rul-estimator-app]*
 
 **Live App:**  
-🌐 *[Link to deployed Streamlit app — coming soon]*
+🌐 *[https://rul-estimator-app-lxmtgadfjk7zpmnpceh3kh.streamlit.app/]*
 """)
 
 # Upload file or use default
