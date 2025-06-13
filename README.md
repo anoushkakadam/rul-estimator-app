@@ -10,8 +10,8 @@ This project is a Streamlit-based machine learning app that estimates the **Rema
 
 ## 🚀 Live Demo
 
-▶️ **[Click here to run the app](https://your-username-rul-estimator-app.streamlit.app)**  
-(*No installation needed — works directly in your browser!*)
+▶️ **[Click here to run the app](https://rul-estimator-app-lxmtgadfjk7zpmnpceh3kh.streamlit.app/)**  
+
 
 ---
 
@@ -63,8 +63,8 @@ streamlit run streamlit_app.py
 
 ## 👩‍💻 Author
 Anoushka Kadam
-🔗 LinkedIn
-📫 anoushkakadam@gmail.com
+🔗 LinkedIn 
+📫 anoushkak2002@gmail.com
 
 
 
